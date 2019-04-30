@@ -213,7 +213,7 @@ input.input100 {
 
 /*---------------------------------------------*/
 .m2-txt1 {
-  font-family: PlayfairDisplay-Regular;
+  font-family: Poppins-Light;
   font-size: 25px;
   color: #fff;
   line-height: 1.2;
@@ -337,7 +337,7 @@ input.input100 {
   background: -o-linear-gradient(bottom, #aa076b, #61045f);
   background: -moz-linear-gradient(bottom, #aa076b, #61045f);
   background: linear-gradient(bottom, #aa076b, #61045f);
-  opacity: 0.9;
+  opacity: 0.75;
 }
 
 .overlay1::after {
