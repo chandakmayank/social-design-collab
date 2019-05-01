@@ -534,3 +534,13 @@ input.input100 {
   /*---------------------------------------------*/
 
 }
+
+
+/*custom CSS*/
+
+.connect a{
+  color: #C0C0C0 !important;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
