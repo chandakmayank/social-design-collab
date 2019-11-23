@@ -858,6 +858,7 @@ blockquote {
 
 .blog-list-item {
   min-height: 100px;
+  margin-bottom: 20px;
 }
 
 .blog-info-text {
@@ -926,6 +927,10 @@ blockquote {
 
 .orange {
   color: #e92b0f;
+}
+
+.columns {
+  margin-bottom: 20px;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
