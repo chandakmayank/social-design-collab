@@ -158,10 +158,11 @@ blockquote {
   padding-top: 7px;
   padding-bottom: 7px;
   font-family: Montserrat, sans-serif;
-  color: #707070;
-  font-size: 14px;
+  color: #d7522a;
+  font-size: 18px;
   line-height: 18px;
   letter-spacing: 1px;
+  font-weight: 800;
 }
 
 .navigation-link:hover {
